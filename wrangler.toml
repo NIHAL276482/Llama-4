@@ -1,10 +1,7 @@
 # wrangler.toml
-name = "google-2.5"
+name = "google-2-5"
 main = "index.js"
 compatibility_date = "2025-06-01"
 workers_dev = true
 
-# Route for custom domain
-[[routes]]
-pattern = "llama.hosters.club/*"
-zone_name = "hosters.club"
+# j
