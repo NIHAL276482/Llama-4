@@ -1,0 +1,10 @@
+# wrangler.toml
+name = "llama4-api"
+main = "index.js"
+compatibility_date = "2025-06-01"
+workers_dev = true
+
+# Route for custom domain
+[[routes]]
+pattern = "llama.hosters.club/*"
+zone_name = "hosters.club"
