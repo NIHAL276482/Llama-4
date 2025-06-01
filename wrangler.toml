@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "qwen-3"
+name = "google-api"
 main = "index.js"
 compatibility_date = "2025-06-01"
 workers_dev = true
