@@ -1,7 +1,7 @@
 # wrangler.toml
 name = "qwen-3"
 main = "index.js"
-compatibility_date = "2025-07-01"
+compatibility_date = "2025-06-01"
 workers_dev = true
 
 # j
