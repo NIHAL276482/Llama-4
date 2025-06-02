@@ -1,5 +1,5 @@
 # wrangler.toml
-name = "google3"
+name = "llama4-api"
 main = "index.js"
 compatibility_date = "2025-06-02"
 workers_dev = true
