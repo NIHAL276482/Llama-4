@@ -1,7 +1,7 @@
 # wrangler.toml
-name = "qwen-3"
+name = "google3"
 main = "index.js"
-compatibility_date = "2025-06-01"
+compatibility_date = "2025-06-02"
 workers_dev = true
 
 # j
